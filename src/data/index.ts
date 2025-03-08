@@ -187,27 +187,19 @@ export const skills: Skill[] = [
 export const testimonials: Testimonial[] = [
   {
     id: 1,
-    name: "Sarah Johnson",
-    position: "Project Manager",
-    company: "Electronic Arts",
-    text: "Anirban is an exceptional developer who consistently delivers high-quality work. His expertise in AI and automation has been invaluable to our team.",
-    image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
-  },
-  {
-    id: 2,
-    name: "Michael Chen",
+    name: "Sayantan Lahiri",
     position: "Technical Lead",
-    company: "Deloitte",
-    text: "Working with Anirban was a pleasure. His problem-solving skills and technical knowledge are impressive, and he's always willing to go the extra mile.",
-    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+    company: "Accenture",
+    text: "We worked together for an Agro based client.\nHe was not only an excellent developer but also timely completed all the delivery in time.\nHe also optimised the solutions to make Automations run faster a real expert .",
+    image: "https://media.licdn.com/dms/image/v2/D5603AQH2QMHQEs4tcg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1692545657298?e=1746662400&v=beta&t=Bm7LcF4r6TA4rpzGwfuzc00Z4KhoEInU62auECXPGOQ"
   },
   {
     id: 3,
-    name: "Emily Rodriguez",
+    name: "Rajasheker Reddy K",
     position: "Senior Developer",
     company: "Accenture",
-    text: "Anirban's ability to quickly adapt to new technologies and solve complex problems makes him an asset to any team. His work on our automation project exceeded expectations.",
-    image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+    text: "I have worked with Anirban on RPA projects within Accenture. He is extremely talented and helpful to others.\nHe is having sound knowledge on various technologies.He is great asset to the team.Very professional and courteous.",
+    image: "https://media.licdn.com/dms/image/v2/D5603AQHqdj7e--73zw/profile-displayphoto-shrink_200_200/B56ZUx3QZwHoAY-/0/1740298326729?e=1746662400&v=beta&t=vXZDqL_OtxdXQk8QRtWWZ_wmJxGztinLHnyswLTIsVE"
   }
 ];
 
