@@ -116,7 +116,7 @@ const Hero: React.FC = () => {
               <div className="relative rounded-full overflow-hidden border-4 border-white shadow-xl h-64 w-64 md:h-80 md:w-80 opacity-0 animate-fadeIn animation-delay-500">
                 <img
                   ref={profileRef}
-                  src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+                  src={personalInfo.profileImage}
                   alt={personalInfo.name}
                   className="w-full h-full object-cover"
                 />
